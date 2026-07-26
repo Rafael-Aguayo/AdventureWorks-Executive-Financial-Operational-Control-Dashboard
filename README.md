@@ -13,7 +13,7 @@ I recently redesigned a financial dashboard to transform it into a real decision
 ---
 
 ## 📌 Quick Links & Resources
-* 📁 **Download Power BI File (.pbix):** [Google Drive Download Link](https://drive.google.com/drive/folders/1d6TBJick7LWncmP-0UbqbZrEDHM3SIGX?usp=sharing) *(Replace with your public Google Drive link)*
+* 📁 **Download Power BI File (.pbix):** [Google Drive Download Link](https://drive.google.com/drive/folders/1d6TBJick7LWncmP-0UbqbZrEDHM3SIGX?usp=sharing) 
 * 💼 **LinkedIn Profile:** [Your LinkedIn Profile](https://www.linkedin.com/in/rafael-aguayo-datos/)
 
 ---
