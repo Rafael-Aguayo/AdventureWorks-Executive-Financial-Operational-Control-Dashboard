@@ -41,7 +41,7 @@ The dashboard is structured into two complementary analytical pages:
 
 ### 1. Operational Performance and Profitability Analysis
 
-![Operational Performance & Profitability Analysis](docs/page1_preview.png)
+ ![Operational Performance & Profitability Analysis](docs/TAB_2.jpeg)
 
 Focuses on YoY growth dynamics, monthly trends, and absolute financial performance across 2011–2013:
 
@@ -60,7 +60,7 @@ Focuses on YoY growth dynamics, monthly trends, and absolute financial performan
 
 ### 2. Capital and Operational Efficiency Analysis
 
-![Capital and Operational Efficiency Analysis](docs/page2_preview.png)
+ ![Capital and Operational Efficiency Analysis](docs/TAB_1.gif)
 
 Evaluates overall financial health, operational leverage, and capital efficiency:
 
